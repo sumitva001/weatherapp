@@ -37,4 +37,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function (event)
         weather.search()
     }
 })
-weather.fetchWeather("kanpur")
+weather.fetchWeather("Varanasi")
